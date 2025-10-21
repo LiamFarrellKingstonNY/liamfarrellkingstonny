@@ -1,6 +1,6 @@
 # Liam Farrell | Kingston NY
 
-# 👋 Hi, I’m Liam Farrell
+# 👋 Hi, I’m Liam Farrell — located in Kingston, NY (Hudson Valley).
 
 💻 **Software Developer · Cybersecurity Enthusiast · Photographer**  
 📍 Based in **Kingston, New York**  
